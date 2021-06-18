@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Ahmad Sanie, you can call me Sanie
 - 📫 How to reach me: Ahmad.alsanie@hotmail.com
-
+- 🧾 My Resume: [Ahmad Sanie - resume.pdf](https://github.com/Ahmad-alsanie/Ahmad-alsanie/files/6675960/Ahmad.Sanie.-.resume.pdf)
