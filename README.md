@@ -6,7 +6,7 @@
 
 ***
 
-### <a onClick="javascript.function();"> Who am I? 🤔 </a>
+### <a onClick="javascript.function("a");"> Who am I? 🤔 </a>
 
 <p id="who_am_I" style="visibility: hidden">
 
@@ -16,7 +16,7 @@
 
 ***
 
-### How to contact me? [📫](CONTACT.md)
+### [How to contact me? 📫](CONTACT.md)
 
 <br/>
 
@@ -28,8 +28,10 @@
 
 
 <script type="text/javascript">
+
     function theFunction () {
     document.getElementById("who_am_I").style.visibility = "visible";
         return true;
     }
+
 </script>
