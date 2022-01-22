@@ -6,6 +6,11 @@
 
 ***
 
+### Who are you?
+[🤔](Resources/gifs/404.gif)
+
+***
+
 ### Where is your contact ?
 [📫](CONTACT.md)
 
@@ -17,10 +22,5 @@
 [🧾](ABOUT.md)
 
 <br/>
-
-***
-
-### Who are you?
-[🤔](Resources/gifs/404.gif)
 
 
