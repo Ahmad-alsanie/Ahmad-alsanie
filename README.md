@@ -4,13 +4,19 @@
 
 <br/>
 
+********
+
 ### [Where is your contact ?](CONTACT.md)
 
 <br/>
 
+********
+
 ### [What do you do ?](ABOUT.md)
 
 <br/>
+
+********
 
 ### [Who are you?](Resources/gifs/404.gif)
 
