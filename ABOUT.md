@@ -1,0 +1,1 @@
+🧾 My Resume: [Ahmad Sanie - resume.pdf](https://github.com/Ahmad-alsanie/Ahmad-alsanie/files/6675960/Ahmad.Sanie.-.resume.pdf)
