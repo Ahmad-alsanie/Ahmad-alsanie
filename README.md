@@ -1,4 +1,15 @@
-# Why am I here?
+<html>
+<head>
+<script type="text/javascript">
+    function theFunction () {
+    document.getElementById("who_am_I").style.visibility = "visible";
+        return true;
+    }
+</script>
+</head>
+
+<body>
+<h1> Why am I here?</h1>
 
 ![](Resources/gifs/where_is_your_contacts.gif)
 
@@ -6,7 +17,7 @@
 
 ***
 
-### <a onClick="javascript.function();"> Who am I? 🤔 </a>
+<h2> <a onClick="javascript.function();"> Who am I? 🤔 </a></h2>
 
 <p id="who_am_I" style="visibility: hidden">
 
@@ -16,20 +27,15 @@
 
 ***
 
-### How to contact me? [📫](CONTACT.md)
+<h2> [How to contact me? 📫](CONTACT.md)</h2>
 
 <br/>
 
 ***
 
-### [My Resume 🧾](ABOUT.md)
+<h2> [My Resume 🧾](ABOUT.md)</h2>
 
 <br/>
 
-
-<script type="text/javascript">
-    function theFunction () {
-    document.getElementById("who_am_I").style.visibility = "visible";
-        return true;
-    }
-</script>
+</body>
+</html>
