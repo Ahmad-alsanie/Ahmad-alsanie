@@ -1,1 +1,1 @@
-🧾 My Resume: [Ahmad Sanie - resume.pdf](https://github.com/Ahmad-alsanie/Ahmad-alsanie/files/6675960/Ahmad.Sanie.-.resume.pdf)
+🧾 My Resume: [Ahmad Sanie - resume.pdf](/resources/pdf/ahmad-sanie-resume-1.0.0.pdf)
